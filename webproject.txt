@@ -1,0 +1,20 @@
+Normal Mode
+
+Add bots that fall from the top and damage the player and the base
+Make the player move left and right and be able to shoot in all directions
+The player should shoot the bots to avoid damage to the base and the player
+Add a suitable health and scoring system.
+
+Hacker Mode
+
+Add bots that can shoot, similar to the player
+Make the player movable in all directions
+Add powerups for the player
+Implement general game features (leaderboard, sound, etc.)
+
+Hacker++ Mode
+
+Enemy Bots can spawn and attack from all directions
+Player's base also has a turret that can shoot bots within a proximity
+Enemies can shoot a homing missile that targets the player and the base
+Add a Boss bot which has more health and does more damage
